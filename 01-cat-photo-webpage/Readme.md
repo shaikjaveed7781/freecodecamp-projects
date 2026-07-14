@@ -1,6 +1,6 @@
 Cat Photo App
 
-This project is part of the FreeCodeCamp Responsive Web Design Certification.
+This webpage is part of the FreeCodeCamp Responsive Web Design Certification.
 
 Concepts Learned
 - HTML Basics
