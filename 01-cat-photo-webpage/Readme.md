@@ -1,8 +1,8 @@
-Cat Photo App
+## Cat Photo App
 
 This webpage is part of the FreeCodeCamp Responsive Web Design Certification.
 
-Concepts Learned
+## Concepts Learned
 - HTML Basics
 - Images
 - Links
@@ -10,7 +10,7 @@ Concepts Learned
 - Forms
 - Semantic HTML
 
-Technologies
+## Technologies
 - HTML5
 
 Author
